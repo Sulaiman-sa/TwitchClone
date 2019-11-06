@@ -12,7 +12,7 @@ const Header = () => {
         </NavbarBrand>
         <Nav className="ml-auto" navbar>
           <NavItem>
-            <NavLink tag={Link} to="/streams/show">
+            <NavLink tag={Link} to="/">
               All Streams
             </NavLink>
           </NavItem>

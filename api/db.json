@@ -1,31 +1,16 @@
 {
   "streams": [
     {
-      "title": "sec",
-      "description": "secondy",
+      "title": "First Stream",
+      "description": "This stream was created by the developer",
+      "userId": "100741833603437162255",
+      "id": 1
+    },
+    {
+      "title": "Streaming my journey",
+      "description": "Join and see my adventures",
+      "userId": "100741833603437162255",
       "id": 2
-    },
-    {
-      "title": "Test with Id",
-      "description": "IDs",
-      "id": 3
-    },
-    {
-      "title": "navig",
-      "description": "Autoss2",
-      "id": 4
-    },
-    {
-      "title": "name",
-      "description": "guess what",
-      "userId": "100741833603437162255",
-      "id": 5
-    },
-    {
-      "title": "Moment",
-      "description": "Of Truth",
-      "userId": "100741833603437162255",
-      "id": 6
     }
   ]
 }
