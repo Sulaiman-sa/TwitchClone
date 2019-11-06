@@ -1,0 +1,31 @@
+{
+  "streams": [
+    {
+      "title": "sec",
+      "description": "secondy",
+      "id": 2
+    },
+    {
+      "title": "Test with Id",
+      "description": "IDs",
+      "id": 3
+    },
+    {
+      "title": "navig",
+      "description": "Autoss2",
+      "id": 4
+    },
+    {
+      "title": "name",
+      "description": "guess what",
+      "userId": "100741833603437162255",
+      "id": 5
+    },
+    {
+      "title": "Moment",
+      "description": "Of Truth",
+      "userId": "100741833603437162255",
+      "id": 6
+    }
+  ]
+}
