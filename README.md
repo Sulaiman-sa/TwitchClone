@@ -28,19 +28,23 @@ npm start
 Then open localhost:3000 and sign in using google Auth and create a record.  
 Now go to OBS
 ```
-Settings -> Stream ->
+Sources -> + -> Display Capture (or whatever you want to stream)
+-
+Settings -> Stream 
 Stream Type: Custom Streaming Server
-URL: rtmp://localhost/live
+Server: rtmp://localhost/live
 Stream key: <The ID of the stream record you have created>
 OK
 START STREAMING
 ```
 
+Your Streaming will be available at the record page you have created  
+http://localhost:3000/streams/<Your record ID>
 
 
 ## Built With
 
 * [React] 
-* [Redux](https://maven.apache.org/) - For state management
-* [Bootstrap](https://rometools.github.io/rome/) - To improve UI
+* [Redux]- For state management
+* [reactstrap] - To improve UI
 
